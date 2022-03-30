@@ -1,4 +1,4 @@
-# ToastedWaffles Email-Bomber
+# Email-Bomber
 
 ### Install
 - Install python3.8 or higher at www.python.org
